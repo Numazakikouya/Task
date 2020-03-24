@@ -69,3 +69,29 @@
  top: 0px;
  left: 0px;
 }
+@media screen and (max-width:768px) {
+ .main-section{
+  width: 90%;
+  height: auto;
+  margin: 50px auto;
+ }
+.box1 {
+ width: 100%;
+}
+.img1 {
+ width: 100%;
+}
+.box2 {
+ width: 100%;
+ margin: 20px 0;
+}
+.img2 {
+ width: 100%;
+}
+.box3 {
+ width: 100%;
+}
+.img3 {
+ width: 100%;
+}
+}
